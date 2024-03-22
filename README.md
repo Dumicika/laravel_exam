@@ -9,4 +9,7 @@ Command what i used to init:
 8.composer require laravel/ui
 9.php artisan 
 10.php artisan ui bootstrap --auth
+11.php artisan adminlte:install --only=auth_views
 11.npm install
+12.npm run dev
+13.php artisan serve --port=...
